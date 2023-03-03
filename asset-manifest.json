@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/web-lec-movie/static/js/main.489a41bf.js",
+    "main.css": "/web-lec-movie/static/css/main.6da44a5c.css",
+    "main.js": "/web-lec-movie/static/js/main.59d7b134.js",
     "index.html": "/web-lec-movie/index.html",
-    "main.489a41bf.js.map": "/web-lec-movie/static/js/main.489a41bf.js.map"
+    "main.6da44a5c.css.map": "/web-lec-movie/static/css/main.6da44a5c.css.map",
+    "main.59d7b134.js.map": "/web-lec-movie/static/js/main.59d7b134.js.map"
   },
   "entrypoints": [
-    "static/js/main.489a41bf.js"
+    "static/css/main.6da44a5c.css",
+    "static/js/main.59d7b134.js"
   ]
 }
