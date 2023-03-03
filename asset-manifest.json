@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/web-lec-movie/static/js/main.3cbaaf4a.js",
+    "main.js": "/web-lec-movie/static/js/main.489a41bf.js",
     "index.html": "/web-lec-movie/index.html",
-    "main.3cbaaf4a.js.map": "/web-lec-movie/static/js/main.3cbaaf4a.js.map"
+    "main.489a41bf.js.map": "/web-lec-movie/static/js/main.489a41bf.js.map"
   },
   "entrypoints": [
-    "static/js/main.3cbaaf4a.js"
+    "static/js/main.489a41bf.js"
   ]
 }
